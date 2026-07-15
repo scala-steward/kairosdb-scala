@@ -24,6 +24,7 @@ project/plugins/project/
 .idea
 
 # VsCode extensions
+.vscode
 .bloop
 .metals
 metals*
